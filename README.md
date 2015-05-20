@@ -25,3 +25,5 @@ sudo service nginx start
 ## check web werver status
 
 telent localhost 80
+
+##
