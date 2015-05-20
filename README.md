@@ -1,3 +1,3 @@
 ## JBrowse
 
-Install it
+Install JBrowse
